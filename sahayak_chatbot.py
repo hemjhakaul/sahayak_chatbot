@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 
-# ✅ Set your Gemini API key
+# Set your Gemini API key
 genai.configure(api_key="AIzaSyASRFwaC3-oV1gJCEKkGQX6XD0h1DTagDk")
 
 st.title("Welcome, I am Sahayak")
